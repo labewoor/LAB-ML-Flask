@@ -1,1 +1,1 @@
-# LAB-ML-Flask
+# Repository for final project
